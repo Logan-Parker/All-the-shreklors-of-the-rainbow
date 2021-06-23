@@ -1,27 +1,27 @@
 function ccred() {
-  document.getElementById('paragraph').style.color ='red'
+  document.getElementById('paragraph').style.color = 'red'
 }
 
 function ccorange() {
-  document.getElementById('paragraph').style.color ='orange'
+  document.getElementById('paragraph').style.color = 'orange'
 }
 
 function ccyellow() {
-  document.getElementById('paragraph').style.color ='yellow'
+  document.getElementById('paragraph').style.color = 'yellow'
 }
 
 function ccgreen() {
-  document.getElementById('paragraph').style.color ='green'
+  document.getElementById('paragraph').style.color = 'green'
 }
 
 function ccblue() {
-  document.getElementById('paragraph').style.color ='blue'
+  document.getElementById('paragraph').style.color = 'blue'
 }
 
 function ccindigo() {
-  document.getElementById('paragraph').style.color ='indigo'
+  document.getElementById('paragraph').style.color = 'indigo'
 }
 
 function ccviolet() {
-  document.getElementById('paragraph').style.color ='violet'
+  document.getElementById('paragraph').style.color = 'violet'
 }
