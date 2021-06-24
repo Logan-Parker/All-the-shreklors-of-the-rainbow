@@ -1,4 +1,5 @@
 /* eslint-disable no-unused-vars */
+/* eslint-disable space-before-function-paren */
 function ccRed() {
   document.getElementById('paragraph').style.color = 'red'
 }
