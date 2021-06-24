@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 function ccRed() {
   document.getElementById('paragraph').style.color = 'red'
 }
