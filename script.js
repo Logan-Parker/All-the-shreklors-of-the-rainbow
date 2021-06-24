@@ -1,27 +1,27 @@
-function ccred() {
+function ccRed() {
   document.getElementById('paragraph').style.color = 'red'
 }
 
-function ccorange() {
+function ccOrange() {
   document.getElementById('paragraph').style.color = 'orange'
 }
 
-function ccyellow() {
+function ccYellow() {
   document.getElementById('paragraph').style.color = 'yellow'
 }
 
-function ccgreen() {
+function ccGreen() {
   document.getElementById('paragraph').style.color = 'green'
 }
 
-function ccblue() {
+function ccBlue() {
   document.getElementById('paragraph').style.color = 'blue'
 }
 
-function ccindigo() {
+function ccIndigo() {
   document.getElementById('paragraph').style.color = 'indigo'
 }
 
-function ccviolet() {
+function ccViolet() {
   document.getElementById('paragraph').style.color = 'violet'
 }
